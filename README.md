@@ -1,7 +1,7 @@
 ### 21-DAY-CODING-CHALLENGE
 Lighthouse Labs created the 21-Day Coding Challenge (#21DCC) 
 
-# JavaScript (“JS” for short) is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites.
+JavaScript (“JS” for short) is a full-fledged dynamic programming language that, when applied to an HTML document, can provide dynamic interactivity on websites.
 
 While there is a LOT to know about JavaScript, this prep resource is designed to point you directly to the concepts you’ll need to know to solve the 21 days of coding challenges ahead.
 
