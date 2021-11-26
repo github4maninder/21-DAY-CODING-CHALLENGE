@@ -5,12 +5,12 @@ JavaScript (“JS” for short) is a full-fledged dynamic programming language t
 
 While there is a LOT to know about JavaScript, this prep resource is designed to point you directly to the concepts you’ll need to know to solve the 21 days of coding challenges ahead.
 
-## Getting Started
-# Syntax
+### Getting Started
+ Syntax
 
-# The Console
+ The Console
 
-# Data Types in JavaScript
+### Data Types in JavaScript
 
 Data types are used to classify one particular type of data in programming languages. For instance, a number and a string of characters are different types of data that will be treated differently by JavaScript.
 
@@ -25,10 +25,10 @@ The data types we’ll be using in the 21DCC include:
 ### Focusing on FOCAL
 The challenges in the 21 Day Coding Challenge will focus on something we at Lighthouse Labs like to call FOCAL. That stands for:
 
-## Functions
-## Objects
-## Conditionals
-## Arrays
-## Loops
+* Functions
+* Objects
+* Conditionals
+* Arrays
+* Loops
 
-# Face the 21 Day Coding Challenge!
+### Face the 21 Day Coding Challenge!
