@@ -6,6 +6,7 @@ const addJobToAstronaut = (astronaut, job) => {
   return astronaut;
 }
 
+
 // Examples
 
 // Input:
